@@ -1,4 +1,4 @@
-{
+[
   {
         "package": "golem",
         "url": "https://github.com/thinkr-open/golem"
@@ -127,4 +127,4 @@
         "package": "wtfismyip",
         "url": "https://github.com/colinfay/wtfismyip"
     }
-}
+]
