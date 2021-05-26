@@ -1,0 +1,130 @@
+{
+  {
+        "package": "golem",
+        "url": "https://github.com/thinkr-open/golem"
+    },
+    {
+        "package": "bank",
+        "url": "https://github.com/thinkr-open/bank"
+    },
+    {
+        "package": "testdown",
+        "url": "https://github.com/thinkr-open/testdown"
+    },
+    {
+        "package": "remedy",
+        "url": "https://github.com/thinkr-open/remedy"
+    },
+    {
+        "package": "shinipsum",
+        "url": "https://github.com/thinkr-open/shinipsum"
+    },
+    {
+        "package": "w3css",
+        "url": "https://github.com/thinkr-open/w3css"
+    },
+    {
+        "package": "fakir",
+        "url": "https://github.com/thinkr-open/fakir"
+    },
+    {
+        "package": "riem",
+        "url": "https://github.com/ropensci/riem"
+    },
+    {
+        "package": "minifyr",
+        "url": "https://github.com/colinfay/minifyr"
+    },
+    {
+        "package": "dockerfiler",
+        "url": "https://github.com/colinfay/dockerfiler"
+    },
+    {
+        "package": "glouton",
+        "url": "https://github.com/colinfay/glouton"
+    },
+    {
+        "package": "gargoyle",
+        "url": "https://github.com/colinfay/gargoyle"
+    },
+    {
+        "package": "brochure",
+        "url": "https://github.com/colinfay/brochure"
+    },
+    {
+        "package": "crrry",
+        "url": "https://github.com/colinfay/crrry"
+    },
+    {
+        "package": "noon",
+        "url": "https://github.com/colinfay/noon"
+    },
+    {
+        "package": "hexmake",
+        "url": "https://github.com/colinfay/hexmake"
+    },
+    {
+        "package": "dockerstats",
+        "url": "https://github.com/colinfay/dockerstats"
+    },
+    {
+        "package": "bubble",
+        "url": "https://github.com/colinfay/bubble"
+    },
+    {
+        "package": "attempt",
+        "url": "https://github.com/colinfay/attempt"
+    },
+    {
+        "package": "darkmode",
+        "url": "https://github.com/colinfay/darkmode"
+    },
+    {
+        "package": "geoloc",
+        "url": "https://github.com/colinfay/geoloc"
+    },
+    {
+        "package": "resume",
+        "url": "https://github.com/colinfay/resume"
+    },
+    {
+        "package": "nessy",
+        "url": "https://github.com/colinfay/nessy"
+    },
+    {
+        "package": "rnotify",
+        "url": "https://github.com/colinfay/rnotify"
+    },
+    {
+        "package": "tidystringdist",
+        "url": "https://github.com/colinfay/tidystringdist"
+    },
+    {
+        "package": "proustr",
+        "url": "https://github.com/colinfay/proustr"
+    },
+    {
+        "package": "feathericons",
+        "url": "https://github.com/colinfay/feathericons"
+    },
+    {
+        "package": "craneur",
+        "url": "https://github.com/colinfay/craneur"
+    },
+    {
+        "package": "skeleton",
+        "url": "https://github.com/colinfay/skeleton"
+    },
+    {
+        "package": "handydandy",
+        "url": "https://github.com/colinfay/handydandy"
+    },
+    {
+        "package": "fryingpane",
+        "url": "https://github.com/colinfay/fryingpane"
+    },
+    {
+        "package": "wtfismyip",
+        "url": "https://github.com/colinfay/wtfismyip"
+    }
+}
